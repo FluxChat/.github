@@ -11,10 +11,4 @@ See [Python wiki](https://github.com/FluxChat/fluxchat-py/wiki) and [TypeScript 
 
 ## Motivation
 
-TBD
-
-## Project Outlines
-
-The project outlines as described in my blog post about [Open Source Software Collaboration](https://blog.fox21.at/2019/02/21/open-source-software-collaboration.html).
-
-- TBD
+The motivation behind writing FluxChat is to gain knowledge in creating a network protocol, understanding distributed systems, and exploring various encryption methods and algorithms. FluxChat aims to serve as a communication tool for individuals who are concerned about privacy.
