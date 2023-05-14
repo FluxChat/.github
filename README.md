@@ -1,2 +1,3 @@
-# .github
-GitHub
+# FluxChat
+
+Welcome to FluxChat.
