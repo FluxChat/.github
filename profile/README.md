@@ -2,7 +2,7 @@
 
 Welcome to FluxChat, a decentralized, peer-to-peer, encrypted chat application.
 
-We created created two clients, which utilize the same network protocol for seamless communication.
+We created two clients, which utilize the same network protocol for seamless communication.
 
 If you prefer using the command-line interface, we recommend using the [FluxChat Python client](https://github.com/FluxChat/fluxchat-py). On the other hand, if you prefer a web-based interface for communication, the [FluxChat TypeScript client](https://github.com/FluxChat/fluxchat-ts) is the ideal choice.
 
